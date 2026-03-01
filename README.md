@@ -2,13 +2,13 @@
 
 <div align="center">
 
-**🚀 Enterprise-Grade | 🔒 Secure | 🇮🇳 GST Compliant | 📱 Cross-Platform**
+**🚀 Enterprise-Grade | 🔒 Secure | 🇮🇳 GST Compliant | 🖥️ Windows Desktop**
 
 *Next-gen billing, accounting, and restaurant POS platform with end-to-end encryption, immutable audit trails, and India GST compliance.*
 
 [![Latest Release](https://img.shields.io/github/v/release/el-kaid/b1-releases?label=latest&style=for-the-badge)](https://github.com/el-kaid/b1-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/el-kaid/b1-releases/total?style=for-the-badge)](https://github.com/el-kaid/b1-releases/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue?style=for-the-badge)]()
+[![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows)]()
 
 </div>
 
@@ -16,8 +16,12 @@
 
 ## 📥 Download
 
-Head to the [**Releases**](https://github.com/el-kaid/b1-releases/releases/latest) page and download the installer for your platform:
+Head to the [**Releases**](https://github.com/el-kaid/b1-releases/releases/latest) page and download the installer:
 
+| Platform | File | Architecture |
+|----------|------|--------------|
+| **Windows** (Installer) | `B1-Setup-x.x.x.exe` | x64 |
+| **Windows** (Portable) | `B1-x.x.x-portable.exe` | x64 |
 
 > **Auto-Update:** B1 includes built-in auto-update support. Once installed, new versions will be downloaded and applied automatically.
 
@@ -45,7 +49,7 @@ Head to the [**Releases**](https://github.com/el-kaid/b1-releases/releases/lates
 
 | Requirement | Minimum |
 |-------------|---------|
-| **OS** | Windows 10+, macOS 11+, Ubuntu 20.04+ |
+| **OS** | Windows 10 or later |
 | **RAM** | 4 GB |
 | **Disk** | 500 MB free space |
 | **Display** | 1280 × 720 |
@@ -54,20 +58,11 @@ Head to the [**Releases**](https://github.com/el-kaid/b1-releases/releases/lates
 
 ## 🚀 Installation
 
-### Windows
 1. Download `B1-Setup-x.x.x.exe` from [Releases](https://github.com/el-kaid/b1-releases/releases/latest)
 2. Run the installer — you can choose the installation directory
 3. Launch **B1** from the Start Menu or Desktop shortcut
 
-### macOS
-1. Download `B1-x.x.x.dmg` from [Releases](https://github.com/el-kaid/b1-releases/releases/latest)
-2. Open the DMG and drag **B1** to your Applications folder
-3. On first launch, right-click → Open (to bypass Gatekeeper)
-
-### Linux
-1. Download `B1-x.x.x.AppImage` or `B1-x.x.x.deb` from [Releases](https://github.com/el-kaid/b1-releases/releases/latest)
-2. **AppImage:** `chmod +x B1-*.AppImage && ./B1-*.AppImage`
-3. **Debian:** `sudo dpkg -i B1-*.deb`
+> 💡 **Portable version:** If you prefer not to install, download `B1-x.x.x-portable.exe` and run it directly — no installation needed.
 
 ---
 
