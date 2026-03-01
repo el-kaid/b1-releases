@@ -18,9 +18,6 @@
 
 Head to the [**Releases**](https://github.com/el-kaid/b1-releases/releases/latest) page and download the installer for your platform:
 
-| Platform | File | Architecture |
-|----------|------|--------------|
-| **Windows** (Installer) | `B1-Setup-x.x.x.exe` | x64 |
 
 > **Auto-Update:** B1 includes built-in auto-update support. Once installed, new versions will be downloaded and applied automatically.
 
