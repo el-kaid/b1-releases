@@ -21,11 +21,6 @@ Head to the [**Releases**](https://github.com/el-kaid/b1-releases/releases/lates
 | Platform | File | Architecture |
 |----------|------|--------------|
 | **Windows** (Installer) | `B1-Setup-x.x.x.exe` | x64 |
-| **Windows** (Portable) | `B1-x.x.x-portable.exe` | x64 |
-| **macOS** (DMG) | `B1-x.x.x.dmg` | x64 / arm64 |
-| **macOS** (ZIP) | `B1-x.x.x-mac.zip` | x64 / arm64 |
-| **Linux** (AppImage) | `B1-x.x.x.AppImage` | x64 |
-| **Linux** (Debian) | `B1-x.x.x.deb` | x64 |
 
 > **Auto-Update:** B1 includes built-in auto-update support. Once installed, new versions will be downloaded and applied automatically.
 
